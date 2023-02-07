@@ -13,3 +13,4 @@ console.log("palindrome")
 else
 {
 console.log("Not a palindrome")
+}
